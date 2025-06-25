@@ -1,5 +1,7 @@
 # Installation
 
+## ITs FORRK!
+
 Make sure to have enough free disk space for Rust compilation.
 
 Windows users should use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) and follow instructions for Linux.
